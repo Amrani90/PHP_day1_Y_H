@@ -28,7 +28,7 @@ echo '<i><h2>My name is</h2></i>' . $name . $surname . '<i><h2>and im</h2></i>' 
 
      
 
-       $numbers = array(10, 20, 30, 40, 50);
+       
 
 
        $numbers[0] = "Mark";
